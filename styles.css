@@ -1,0 +1,23 @@
+/* Publication Date */
+
+#block-views-block-view-noticia-pbh-block-5 span.col-sm-6.lbl-licitacao {
+    background-color: aquamarine;
+}
+
+/* Bidding Date */
+
+#block-views-block-view-noticia-pbh-block-5 span.col-sm-6.lbl-licitacao {
+    background-color: aqua;
+}
+
+/* Object */
+
+#block-views-block-view-noticia-pbh-block-5 p {
+    background-color: rgb(104, 207, 173);
+}
+
+/* All links related to this tendor */
+
+#block-views-block-view-noticia-pbh-block-5 table div a {
+    background-color: red;
+}
