@@ -14,3 +14,4 @@ console.log("Object: "+(document.querySelector("#block-views-block-view-noticia-
 //printing All links related to this particular tender 
 console.log("Links: "+(document.querySelector("#block-views-block-view-noticia-pbh-block-5 table div h2 a").href));
 // output: Links: https://prefeitura.pbh.gov.br/taxonomy/term/4597 
+
